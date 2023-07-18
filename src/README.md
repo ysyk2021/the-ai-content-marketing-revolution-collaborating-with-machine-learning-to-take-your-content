@@ -8,5 +8,4 @@ This is where AI comes in. By leveraging the power of machine learning and data 
 
 Whether you're a seasoned marketer looking to stay ahead of the curve or a beginner just starting out, this book has something for everyone. By the end of this book, you'll have a solid understanding of how AI can be used to take your content marketing to the next level and stay ahead of the competition.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
