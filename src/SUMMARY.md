@@ -33,3 +33,4 @@
   - [Potential limitations and ethical considerations in using AI for data analysis](chapter-8-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
